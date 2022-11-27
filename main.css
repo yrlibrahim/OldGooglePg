@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+}
+
+.conteiner{
+    display: block;
+    width: 90%;
+    height:100px;
+    color: -internal-quirk-inherit;
+    background-color:#EEEEEE;
+    margin:auto;
+    font-size: larger;
+}
+.content{
+    width: 90%;
+    margin: auto;
+}
+
+.card1{
+    float: left;
+    width: 37%;
+    background-color: #7EE5DA;
+    font-size: larger;
+    height: 80px;
+}
+
+.card2{
+    float: left;
+    width: 23%;
+    background-color:#70CCC2;
+    height: 80px;
+}
+
+.card3{
+    float: left;
+    width: 40%;
+    background-color: #62B3AA;
+    height: 80px;
+}
+p{
+    margin: 0px;
+}
+.clear{
+    clear: left;
+    width: 90%;
+    height: 20px;
+    margin: auto;
+    border-top: 15px;
+}
